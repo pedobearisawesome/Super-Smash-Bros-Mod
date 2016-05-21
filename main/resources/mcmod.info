@@ -1,0 +1,16 @@
+[
+{
+  "modid": "asma",
+  "name": "Super Smash Bros Mod",
+  "description": "This mod is a mod that adds all sorts of stuff based around the game Super Smash Bros!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BearOfDoom", "aggrotdpl", "supernamek"],
+  "credits": "tmtravlr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
